@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="tab_title_movie">Film</string>
+    <string name="tab_title_tvshow">Acara TV</string>
+    <string name="title_movie_tab">List Film</string>
+    <string name="title_tvshow_tab">List Acara TV</string>
+
+    <string name="title_toolbar_detail">Detail</string>
+    <string name="colon">:</string>
+    <string name="label_runtime">Durasi</string>
+    <string name="label_director">Sutradara</string>
+    <string name="label_creator">Pencipta</string>
+    <string name="label_genre">Aliran</string>
+    <string name="title_synopsis">Penjelasan</string>
+    <string name="btn_save_text">Simpan</string>
+    <string name="change_language_title">Ubah Bahasa</string>
+    <string name="empty_data">-</string>
+
+    <!-- Dummy Data-->
+    <string name="dummyGenre">Drama, Thriller, Action, Science Fiction, Horror</string>
+    <string name="dummyTitle">Movie or TV Show Title</string>
+    <string name="dummyDesc">Movie or TV Show Description</string>
+    <string name="dummyRuntime">1h 20m</string>
+    <string name="dummyDirector">Jack Steven sadasd dasd sad adasd</string>
+
+    <!-- Empty State -->
+    <string name="empty_state_desc_no_conn">Silahkan periksa koneksi internet anda</string>
+    <string name="empty_state_btn_reconnect">Hubungkan kembali</string>
+    <string name="empty_state_title_no_conn">Tidak ada koneksi internet</string>
+    <string name="empty_state_desc_error_page">Halaman tidak ditemukan</string>
+    <string name="empty_state_title_error_page">Ups, ada yang tidak beres</string>
+
+    <!-- Time -->
+    <string name="minutes">m</string>
+    <string name="hours">j</string>
+
+    <!-- Error Response API -->
+    <string name="api_error_connection">Tidak dapat terhubung ke server</string>
+    <string name="api_error_response">Gagal mendapatkan hasil</string>
+</resources>

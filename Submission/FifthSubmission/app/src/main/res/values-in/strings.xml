@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="tab_title_movie">Film</string>
+    <string name="tab_title_tvshow">Acara TV</string>
+    <string name="tab_title_favorite">Favorit</string>
+    <string name="title_movie_tab">Film Yang Sedang Tayang</string>
+    <string name="title_tvshow_tab">Acara TV Teratas</string>
+    <string name="title_favorite_tab">Favorit</string>
+
+    <string name="title_toolbar_detail">Detail</string>
+    <string name="colon">:</string>
+    <string name="label_runtime">Durasi</string>
+    <string name="label_director">Sutradara</string>
+    <string name="label_creator">Pencipta</string>
+    <string name="label_genre">Aliran</string>
+    <string name="label_release_date">Tanggal rilis : </string>
+    <string name="label_first_air_date">Tayang perdana : </string>
+    <string name="title_synopsis">Penjelasan</string>
+    <string name="empty_data">-</string>
+
+    <!-- Preferences -->
+    <string name="change_language_title">Ubah Bahasa</string>
+    <string name="advanced_section_pref">Lebih lanjut</string>
+    <string name="notification_section_pref">Notifikasi</string>
+    <string name="app_reminder_title_pref">Pengingat aplikasi harian</string>
+    <string name="app_reminder_summary_pref">Dapatkan pemberitahuan setiap hari untuk mengingatkan anda untuk membuka aplikasi</string>
+    <string name="movie_release_reminder_title_pref">Pengingat rilis film setiap hari</string>
+    <string name="movie_release_reminder_summary_pref">Dapatkan notifikasi film yang rilis setiap hari</string>
+
+    <!-- Dummy Data-->
+    <string name="dummyGenre">Drama, Thriller, Action, Science Fiction, Horror</string>
+    <string name="dummyTitle">Movie or TV Show Title</string>
+    <string name="dummyDesc">Movie or TV Show Description</string>
+    <string name="dummyRuntime">1h 20m</string>
+    <string name="dummyDirector">Jack Steven sadasd dasd sad adasd</string>
+
+    <!-- Empty State -->
+    <string name="empty_state_desc_no_conn">Silahkan periksa koneksi internet anda</string>
+    <string name="empty_state_btn_reconnect">Hubungkan kembali</string>
+    <string name="empty_state_title_no_conn">Tidak ada koneksi internet</string>
+    <string name="empty_state_desc_error_page">Halaman tidak ditemukan</string>
+    <string name="empty_state_title_error_page">Ups, ada yang tidak beres</string>
+    <string name="empty_state_title_no_favorite_item">Belum ada favorit</string>
+    <string name="empty_state_desc_no_favorite_item_movie">kamu tidak punya list film favorit</string>
+    <string name="empty_state_desc_no_favorite_item_tvshow">Kamu tidak punya list acara tv favorit</string>
+    <string name="empty_state_title_not_found">Data tidak ditemukan</string>
+    <string name="empty_state_desc_not_found">Coba dengan kata kunci lainnya</string>
+
+    <!-- Time -->
+    <string name="minutes">m</string>
+    <string name="hours">j</string>
+    <string name="backdrop_image">Gambar latar belakang</string>
+    <string name="minutess">%dm</string>
+
+    <!-- Preference key -->
+    <string name="key_reminder">key_reminder</string>
+    <string name="key_movie_release_reminder">movie_release_reminder</string>
+    <string name="key_language">language</string>
+
+    <!-- Favorite -->
+    <string name="toast_added_to_favorite">%s ditambahkan ke favorit</string>
+
+    <!-- Search Hint -->
+    <string name="hint_search_movie">Cari Movie</string>
+    <string name="hint_search_tvshow">Cari TV Show</string>
+
+    <!-- Etc -->
+    <string name="favorite_movie_widget_title">Film Favorit</string>
+    <string name="menu_title_search">Pencarian</string>
+    <string name="menu_title_settings">Pengaturan</string>
+    <string name="movie_favorite_poster_widget_desc">Poster film favorit</string>
+
+    <!-- Reminder -->
+    <string name="notif_title_daily_app_reminder">Kembali ke aplikasi katalog film</string>
+    <string name="message_daily_app_reminder">Jangan lewatkan film dan acara tv terbaru</string>
+    <string name="notif_title_movie_release_reminder">Film rilis hari ini</string>
+
+
+</resources>

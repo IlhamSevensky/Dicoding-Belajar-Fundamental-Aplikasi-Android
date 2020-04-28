@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_app"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimension_10dp"
+        android:text="@string/welcome_text"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="@dimen/big_title"
+        android:layout_marginTop="@dimen/dimension_30dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/bg_lv_movie">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingRight="@dimen/dimension_20dp"
+            android:paddingLeft="@dimen/dimension_20dp"
+            android:text="@string/list_title"
+            android:textSize="@dimen/list_title_textsize"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginBottom="@dimen/dimension_10dp"
+            android:textAlignment="center"/>
+
+        <ListView
+            android:id="@+id/lv_movie"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:listitem="@layout/item_movie"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.preference.PreferenceCategory android:title="@string/notification_section_pref">
+
+        <SwitchPreferenceCompat
+            app:icon="@drawable/ic_notifications_active"
+            android:key="@string/key_movie_release_reminder"
+            android:summary="@string/movie_release_reminder_summary_pref"
+            android:title="@string/movie_release_reminder_title_pref" />
+
+        <SwitchPreferenceCompat
+            app:icon="@drawable/ic_notifications_active"
+            android:key="@string/key_reminder"
+            android:summary="@string/app_reminder_summary_pref"
+            android:title="@string/app_reminder_title_pref" />
+
+    </androidx.preference.PreferenceCategory>
+
+    <androidx.preference.PreferenceCategory
+        android:title="@string/advanced_section_pref">
+
+        <Preference
+            app:icon="@drawable/ic_language_24dp"
+            android:key="@string/key_language"
+            android:title="@string/change_language_title"/>
+
+    </androidx.preference.PreferenceCategory>
+
+</androidx.preference.PreferenceScreen>

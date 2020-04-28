@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:foreground="?android:attr/selectableItemBackground">
+
+    <TextView
+        android:id="@+id/tv_item_id"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/default_padding_and_margin">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/img_movie"
+            android:layout_width="100dp"
+            android:layout_height="130dp"
+            android:scaleType="fitCenter"
+            app:riv_corner_radius="@dimen/dimension_20dp"
+            app:riv_mutate_background="true" />
+
+        <TextView
+            android:id="@+id/tv_movie_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/default_padding_and_margin"
+            android:layout_toEndOf="@id/img_movie"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_title_size"
+            tools:text="@string/dummyTitle" />
+
+        <TextView
+            android:id="@+id/tv_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_movie_title"
+            android:layout_marginStart="@dimen/default_padding_and_margin"
+            android:layout_marginTop="@dimen/dimension_10dp"
+            android:layout_toEndOf="@id/img_movie"
+            android:ellipsize="end"
+            android:lines="3"
+            android:textSize="@dimen/text_desc_size"
+            tools:text="@string/dummyDesc" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_favorite_false"
+            android:backgroundTint="@android:color/transparent"
+            android:layout_below="@id/tv_description"
+            android:layout_toEndOf="@id/img_movie"
+            android:id="@+id/btn_favorite"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

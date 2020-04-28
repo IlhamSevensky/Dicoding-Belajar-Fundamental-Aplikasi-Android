@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210733780446",
+    "firebase_url": "https://myfirebasecloudmessaging-9e7f8.firebaseio.com",
+    "project_id": "myfirebasecloudmessaging-9e7f8",
+    "storage_bucket": "myfirebasecloudmessaging-9e7f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210733780446:android:1c6a183de8e7ea75f1614f",
+        "android_client_info": {
+          "package_name": "com.ilham.made.myfirebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210733780446-l9t3q8mn3g2mep2plifori50a5h61s9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ilham.made.myfirebasecloudmessaging",
+            "certificate_hash": "3c9724036393db7742d223a93a82097304aeb50d"
+          }
+        },
+        {
+          "client_id": "210733780446-qp2na3tkruqi28rg3gm2r8aq19aikr6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC78UOEFO7pp9Bb_C_j1Y_tFkQ0n0nwKBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210733780446-qp2na3tkruqi28rg3gm2r8aq19aikr6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

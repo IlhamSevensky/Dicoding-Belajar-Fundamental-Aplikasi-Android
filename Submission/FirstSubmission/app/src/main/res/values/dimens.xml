@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding_and_margin">16dp</dimen>
+    <dimen name="text_title_size">20sp</dimen>
+    <dimen name="text_desc_size">16sp</dimen>
+    <dimen name="text_title_size_detail">18sp</dimen>
+    <dimen name="text_desc_size_detail">15sp</dimen>
+    <dimen name="default_detail_margin">40dp</dimen>
+    <dimen name="list_title_textsize">25sp</dimen>
+    <dimen name="margin_left_desc">95dp</dimen>
+    <dimen name="dimension_5dp">5dp</dimen>
+    <dimen name="dimension_10dp">10dp</dimen>
+    <dimen name="dimension_20dp">20dp</dimen>
+    <dimen name="dimension_30dp">30dp</dimen>
+    <dimen name="big_title">35sp</dimen>
+    <dimen name="mini_detail_textsize">12sp</dimen>
+</resources>

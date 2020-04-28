@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="dummyTitle">Movie Title</string>
+    <string name="dummyDesc">Movie Description</string>
+    <string name="title_toolbar_detail">Movie Detail</string>
+    <string name="colon">:</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="list_title">Movie Catalogue</string>
+    <string name="dummyRuntime">1h 20m</string>
+    <string name="dummyDirector">Jack Steven sadasd dasd sad adasd</string>
+    <string name="label_runtime">Runtime</string>
+    <string name="label_director">Director</string>
+    <string name="description_movie_poster">movie_poster</string>
+    <string name="dummyGenre">Drama, Thriller, Action, Science Fiction, Horror</string>
+    <string name="label_genre">Genre</string>
+    <string name="title_synopsis">Synopsis</string>
+
+    <string-array name="data_movie_name">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Once Upon a Deadpool</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Dragon Ball Super: Broly</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Mary Poppins Returns</item>
+        <item>Mortal Engines</item>
+        <item>Preman Pensiun</item>
+        <item>Robin Hood</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>The Girl in the Spider\'s Web</item>
+        <item>The Mule</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_movie_director">
+        <item>Bradley Cooper</item>
+        <item>James Wan</item>
+        <item>Joe Russo</item>
+        <item>Susanne Bier</item>
+        <item>Bryan Singer</item>
+        <item>Travis Knight</item>
+        <item>Steven Caple Jr.</item>
+        <item>David Leitch</item>
+        <item>Dean DeBlois</item>
+        <item>Tatsuya Nagamine</item>
+        <item>M. Night Shyamalan</item>
+        <item>Donovan Marsh</item>
+        <item>Rob Marshall</item>
+        <item>Christian Rivers</item>
+        <item>Aris Nugraha</item>
+        <item>Otto Bathurst</item>
+        <item>Rodney Rothman</item>
+        <item>Fede Alvarez</item>
+        <item>Clint Eastwood</item>
+        <item>Ruben Fleischer</item>
+    </string-array>
+
+    <string-array name="data_movie_runtime">
+        <item>2h 16m</item>
+        <item>2h 24m</item>
+        <item>2h 29m</item>
+        <item>2h 4m</item>
+        <item>2h 15m</item>
+        <item>1h 54m</item>
+        <item>2h 10m</item>
+        <item>1h 57m</item>
+        <item>1h 44m</item>
+        <item>1h 41m</item>
+        <item>2h 9m</item>
+        <item>2h 2m</item>
+        <item>2h 11m</item>
+        <item>2h 9m</item>
+        <item>1h 34m</item>
+        <item>1h 56m</item>
+        <item>1h 57m</item>
+        <item>1h 57m</item>
+        <item>1h 57m</item>
+        <item>1h 52m</item>
+    </string-array>
+
+    <string-array name="data_movie_genre">
+        <item>Drama, Romance, Music</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Adventure, Action, Science Fiction</item>
+        <item>Thriller, Drama</item>
+        <item>Drama, Music</item>
+        <item>Action, Adventure, Science Fiction</item>
+        <item>Drama</item>
+        <item>Comedy, Action</item>
+        <item>Animation, Family, Adventure</item>
+        <item>Action, Animation, Fantasy, Adventure, Comedy, Science Fiction</item>
+        <item>Thriller, Drama, Science Fiction</item>
+        <item>Action, Thriller</item>
+        <item>Fantasy, Family, Comedy</item>
+        <item>Adventure, Fantasy</item>
+        <item>Comedy, Drama</item>
+        <item>Adventure, Action, Thriller</item>
+        <item>Action, Adventure, Animation, Science Fiction, Comedy</item>
+        <item>Action, Crime, Thriller</item>
+        <item>Crime, Drama, Thriller</item>
+        <item>Science Fiction, Action</item>
+    </string-array>
+
+    <string-array name="data_movie_description">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Between personal obligations and training for his next big fight against an opponent with ties to his family\'s past, Adonis Creed is up against the challenge of his life.</item>
+        <item>A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that\'s full of magic, wonder &amp; zero F\'s.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called \'Broly\' who they\'ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what\'s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.</item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</item>
+        <item>Captain Glass of the USS Arkansas discovers that a coup d\'état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.</item>
+        <item>In Depression-era London, a now-grown Jane and Michael Banks, along with Michael\'s three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.</item>
+        <item>Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.</item>
+        <item>After three years, the business of Muslihat (Epi Kusnandar), who has retired as a thug, has a problem. Sales decline. Muslihat also faces new problems when Safira (Safira Maharani), her only daughter, grows up in adolescence and begins to be visited by boys. A bigger problem: frictions between his former subordinates.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>In Stockholm, Sweden, hacker Lisbeth Salander is hired by Frans Balder, a computer engineer, to retrieve a program that he believes it is too dangerous to exist.</item>
+        <item>Earl Stone, a man in his eighties, is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he\'s just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard-charging DEA agent Colin Bates.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+    </string-array>
+
+    <array name="data_movie_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <array name="data_movie_photo_highlight">
+        <item>@drawable/hightlight_a_star_is_born</item>
+        <item>@drawable/hightlight_aquaman</item>
+        <item>@drawable/hightlight_infinity_war</item>
+        <item>@drawable/hightlight_bird_box</item>
+        <item>@drawable/hightlight_bohemian_rhapsody</item>
+        <item>@drawable/hightlight_bumblebee</item>
+        <item>@drawable/hightlight_creed</item>
+        <item>@drawable/hightlight_once_upon_a_deadpool</item>
+        <item>@drawable/hightlight_dragon</item>
+        <item>@drawable/hightlight_dragon_ball_broly</item>
+        <item>@drawable/hightlight_glass</item>
+        <item>@drawable/hightlight_hunter_killer</item>
+        <item>@drawable/hightlight_mary_poppin</item>
+        <item>@drawable/hightlight_mortal_engine</item>
+        <item>@drawable/hightlight_preman_pensiun</item>
+        <item>@drawable/hightlight_robinhood</item>
+        <item>@drawable/hightlight_spiderman</item>
+        <item>@drawable/hightlight_girl_spider_web</item>
+        <item>@drawable/hightlight_the_mule</item>
+        <item>@drawable/hightlight_venom</item>
+    </array>
+</resources>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="tab_title_movie">Movie</string>
+    <string name="tab_title_tvshow">TV Show</string>
+    <string name="title_movie_tab">List Movie</string>
+    <string name="title_tvshow_tab">List TV Show</string>
+
+    <string name="title_toolbar_detail">Detail</string>
+    <string name="title_toolbar_language">Change Language</string>
+    <string name="radio_eng">English</string>
+    <string name="radio_idn">Indonesia</string>
+    <string name="colon">:</string>
+    <string name="label_runtime">Runtime</string>
+    <string name="label_director">Director</string>
+    <string name="label_creator">Creator</string>
+    <string name="label_genre">Genre</string>
+    <string name="title_synopsis">Overview</string>
+    <string name="btn_save_text">Save</string>
+    <string name="change_language_title">Change Language</string>
+
+    <!-- Dummy Data-->
+    <string name="description_movie_movie_poster">movie_movie_poster</string>
+    <string name="dummyGenre">Drama, Thriller, Action, Science Fiction, Horror</string>
+    <string name="dummyTitle">Movie or TV Show Title</string>
+    <string name="dummyDesc">Movie or TV Show Description</string>
+    <string name="dummyRuntime">1h 20m</string>
+    <string name="dummyDirector">Jack Steven sadasd dasd sad adasd</string>
+
+    <!-- Data Movie -->
+    <string-array name="data_movie_name">
+        <item>A Star Is Born</item>
+        <item>Alita: Battle Angel</item>
+        <item>Aquaman</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Cold Pursuit</item>
+        <item>Creed II</item>
+        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
+        <item>Glass</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Avengers: Infinity War</item>
+        <item>Mary Queen of Scots</item>
+        <item>Master Z: Ip Man Legacy</item>
+        <item>Mortal Engines</item>
+        <item>Overlord</item>
+        <item>Ralph Breaks the Internet</item>
+        <item>Robin Hood</item>
+        <item>Serenity</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>T-34</item>
+    </string-array>
+
+    <string-array name="data_movie_director">
+        <item>Bradley Cooper</item>
+        <item>Robert Rodriguez</item>
+        <item>James Wan</item>
+        <item>Bryan Singer, Dexter Fletcher</item>
+        <item>Hans Petter Moland</item>
+        <item>Steven Caple Jr.</item>
+        <item>David Yates</item>
+        <item>M. Night Shyamalan</item>
+        <item>Dean DeBlois</item>
+        <item>Joe Russo, Anthony Russo</item>
+        <item>Josie Rourke</item>
+        <item>Yuen Woo-ping</item>
+        <item>Christian Rivers</item>
+        <item>Julius Avery</item>
+        <item>Phil Johnston, Rich Moore</item>
+        <item>Otto Bathurst</item>
+        <item>Steven Knight</item>
+        <item>Rodney Rothman, Peter Ramsey, Bob Persichetti</item>
+        <item>Aleksey Sidorov</item>
+    </string-array>
+
+    <string-array name="data_movie_runtime">
+        <item>2h 16m</item>
+        <item>2h 2m</item>
+        <item>2h 24m</item>
+        <item>2h 15m</item>
+        <item>1h 59m</item>
+        <item>2h 10m</item>
+        <item>2h 14m</item>
+        <item>2h 9m</item>
+        <item>1h 44m</item>
+        <item>2h 29m</item>
+        <item>2h 4m</item>
+        <item>1h 47m</item>
+        <item>2h 9m</item>
+        <item>1h 50m</item>
+        <item>1h 52m</item>
+        <item>1h 56m</item>
+        <item>1h 42m</item>
+        <item>1h 57m</item>
+        <item>2h 19m</item>
+    </string-array>
+
+    <string-array name="data_movie_genre">
+        <item>Drama, Romance, Music</item>
+        <item>Action, Science Fiction, Thriller, Adventure</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Drama, Music</item>
+        <item>Action</item>
+        <item>Drama</item>
+        <item>Adventure, Fantasy, Family</item>
+        <item>Thriller, Drama, Science Fiction</item>
+        <item>Animation, Family, Adventure</item>
+        <item>Adventure, Action, Science Fiction</item>
+        <item>Drama, History</item>
+        <item>Action</item>
+        <item>Adventure, Fantasy</item>
+        <item>Horror, War, Science Fiction</item>
+        <item>Family, Animation, Comedy, Adventure</item>
+        <item>Adventure, Action, Thriller</item>
+        <item>Thriller, Mystery, Drama</item>
+        <item>Action, Adventure, Animation, Science Fiction, Comedy</item>
+        <item>War, Action</item>
+    </string-array>
+
+    <string-array name="data_movie_description">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>The quiet family life of Nels Coxman, a snowplow driver, is upended after his son\'s murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking\'s associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.</item>
+        <item>Between personal obligations and training for his next big fight against an opponent with ties to his family\'s past, Adonis Creed is up against the challenge of his life.</item>
+        <item>Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.</item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>In 1561, Mary Stuart, widow of the King of France, returns to Scotland, reclaims her rightful throne and menaces the future of Queen Elizabeth I as ruler of England, because she has a legitimate claim to the English throne. Betrayals, rebellions, conspiracies and their own life choices imperil both Queens. They experience the bitter cost of power, until their tragic fate is finally fulfilled.</item>
+        <item>Following his defeat by Master Ip, Cheung Tin Chi (Zhang) tries to make a life with his young son in Hong Kong, waiting tables at a bar that caters to expats. But it s not long before the mix of foreigners, money, and triad leaders draw him once again to the fight.</item>
+        <item>Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.</item>
+        <item>France, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their aircraft crashes while on a mission to destroy a radio tower in a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realise that, in addition to fighting the Nazi troops that patrol the village, they also must fight against something else.</item>
+        <item>Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope\'s video game, "Sugar Rush." In way over their heads, Ralph and Vanellope rely on the citizens of the internet -- the netizens -- to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>The quiet life of Baker Dill, a fishing boat captain who lives on the isolated Plymouth Island, where he spends his days obsessed with capturing an elusive tuna while fighting his personal demons, is interrupted when someone from his past comes to him searching for help.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.</item>
+
+    </string-array>
+
+    <array name="data_movie_photo">
+        <item>@drawable/movie_poster_a_start_is_born</item>
+        <item>@drawable/movie_poster_alita</item>
+        <item>@drawable/movie_poster_aquaman</item>
+        <item>@drawable/movie_poster_bohemian</item>
+        <item>@drawable/movie_poster_cold_persuit</item>
+        <item>@drawable/movie_poster_creed</item>
+        <item>@drawable/movie_poster_crimes</item>
+        <item>@drawable/movie_poster_glass</item>
+        <item>@drawable/movie_poster_how_to_train</item>
+        <item>@drawable/movie_poster_infinity_war</item>
+        <item>@drawable/movie_poster_marry_queen</item>
+        <item>@drawable/movie_poster_master_z</item>
+        <item>@drawable/movie_poster_mortal_engines</item>
+        <item>@drawable/movie_poster_overlord</item>
+        <item>@drawable/movie_poster_ralph</item>
+        <item>@drawable/movie_poster_robin_hood</item>
+        <item>@drawable/movie_poster_serenity</item>
+        <item>@drawable/movie_poster_spiderman</item>
+        <item>@drawable/movie_poster_t34</item>
+    </array>
+
+    <array name="data_movie_photo_highlight">
+        <item>@drawable/highlight_movie_a_star_is_born</item>
+        <item>@drawable/highlight_movie_alita</item>
+        <item>@drawable/highlight_movie_aquaman</item>
+        <item>@drawable/highlight_movie_bohemian_rhapsody</item>
+        <item>@drawable/highlight_movie_cold_pursuit</item>
+        <item>@drawable/highlight_movie_creed</item>
+        <item>@drawable/highlight_movie_crimes</item>
+        <item>@drawable/highlight_movie_glass</item>
+        <item>@drawable/highlight_movie_dragon</item>
+        <item>@drawable/highlight_movie_infinity_war</item>
+        <item>@drawable/highlight_movie_marry_queen</item>
+        <item>@drawable/highlight_movie_master_z</item>
+        <item>@drawable/highlight_movie_mortal_engine</item>
+        <item>@drawable/highlight_movie_overlord</item>
+        <item>@drawable/highlight_movie_ralph</item>
+        <item>@drawable/highlight_movie_robinhood</item>
+        <item>@drawable/highlight_movie_serenity</item>
+        <item>@drawable/highlight_movie_spiderman</item>
+        <item>@drawable/highlight_movie_t34</item>
+    </array>
+
+
+    <!-- Data TV Show -->
+    <string-array name="data_tvshow_name">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>The Flash</item>
+        <item>Game of Thrones</item>
+        <item>Gotham</item>
+        <item>Grey\'s Anatomy</item>
+        <item>Hanna</item>
+        <item>Marvel\'s Iron Fist</item>
+        <item>Naruto Shippūden</item>
+        <item>NCIS</item>
+        <item>Riverdale</item>
+        <item>Shameless</item>
+        <item>Supergirl</item>
+        <item>Supernatural</item>
+        <item>The Simpsons</item>
+        <item>The Umbrella Academy</item>
+        <item>The Walking Dead</item>
+    </string-array>
+
+    <string-array name="data_tvshow_creator">
+        <!-- Creator-->
+        <item>Greg Berlanti, Marc Guggenheim, Andrew Kreisberg</item>
+        <item>Jeremy Carver</item>
+        <item>Akira Toriyama</item>
+        <item>-</item>
+        <item>Seth MacFarlane</item>
+        <item>Geoff Johns, Andrew Kreisberg, Greg Berlanti</item>
+        <item>David Benioff, D. B. Weiss</item>
+        <item>Bruno Heller</item>
+        <item>Shonda Rhimes</item>
+        <item>David Farr</item>
+        <item>Scott Buck</item>
+        <item>-</item>
+        <item>Donald P. Bellisario, Don McGill</item>
+        <item>Roberto Aguirre-Sacasa</item>
+        <item>Paul Abbott</item>
+        <item>Greg Berlanti, Andrew Kreisberg, Ali Adler</item>
+        <item>Eric Kripke</item>
+        <item>Matt Groening</item>
+        <item>Steve Blackman</item>
+        <item>Frank Darabont</item>
+    </string-array>
+
+    <string-array name="data_tvshow_runtime">
+        <item>42m</item>
+        <item>60m</item>
+        <item>25m</item>
+        <item>25m</item>
+        <item>22m</item>
+        <item>44m</item>
+        <item>60m</item>
+        <item>43m, 60m</item>
+        <item>43m</item>
+        <item>50m</item>
+        <item>55m</item>
+        <item>25m</item>
+        <item>45m</item>
+        <item>45m</item>
+        <item>60m, 55m</item>
+        <item>42m</item>
+        <item>45m</item>
+        <item>22m</item>
+        <item>60m</item>
+        <item>42m, 60m, 45m</item>
+    </string-array>
+
+    <string-array name="data_tvshow_genre">
+        <item>Crime, Drama, Mystery, Action, Adventure</item>
+        <item>Sci-Fi, Fantasy, Action, Adventure</item>
+        <item>Comedy, Sci-Fi, Fantasy, Animation, Action, Adventure</item>
+        <item>Action, Adventure, Animation, Comedy, Sci-Fi, Fantasy</item>
+        <item>Animation, Comedy</item>
+        <item>Drama, Sci-Fi, Fantasy</item>
+        <item>Sci-Fi, Fantasy, Drama, Action, Adventure</item>
+        <item>Drama, Fantasy, Crime</item>
+        <item>Drama</item>
+        <item>Action, Adventure, Drama</item>
+        <item>Action, Adventure, Crime, Drama, Sci-Fi, Fantasy</item>
+        <item>Animation, Comedy, Drama</item>
+        <item>Action, Adventure, Crime, Drama</item>
+        <item>Drama, Mystery</item>
+        <item>Drama, Comedy</item>
+        <item>Action, Adventure, Drama, Science Fiction</item>
+        <item>Drama, Mystery, Sci-Fi, Fantasy</item>
+        <item>Animation, Comedy</item>
+        <item>Action, Adventure, Sci-Fi, Fantasy</item>
+        <item>Action, Adventure, Drama, Sci-Fi, Fantasy</item>
+    </string-array>
+
+    <string-array name="data_tvshow_description">
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>The Doom Patrol’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.</item>
+        <item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the mystical Dragon Balls brought her to Goku\'s home. Together, they set off to find all seven and to grant her wish.</item>
+        <item>Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn\'t just any ordinary kid, he\'s a member of one of the world\'s most infamous mage guilds: Fairy Tail.</item>
+        <item>Sick, twisted, politically incorrect and Freakin\' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he\'s not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only "meta-human" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won\'t be long before the world learns what Barry Allen has become...The Flash.</item>
+        <item>Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night\'s Watch, is all that stands between the realms of men and icy horrors beyond.</item>
+        <item>Everyone knows the name Commissioner Gordon. He is one of the crime world\'s greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon\'s story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world\'s most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?</item>
+        <item>Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.</item>
+        <item>This thriller and coming-of-age drama follows the journey of an extraordinary young girl as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is. Based on the 2011 Joe Wright film.</item>
+        <item>Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.</item>
+        <item>Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.</item>
+        <item>From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.</item>
+        <item>Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.</item>
+        <item>Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank\'s not at the bar spending what little money they have, he\'s passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.</item>
+        <item>Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.</item>
+        <item>When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their \'67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item>A dysfunctional family of superheroes comes together to solve the mystery of their father\'s death, the threat of the apocalypse and more.</item>
+        <item>Sheriff\'s deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</item>
+
+    </string-array>
+
+    <array name="data_tvshow_photo">
+        <item>@drawable/tvshow_poster_arrow</item>
+        <item>@drawable/tvshow_poster_doom_patrol</item>
+        <item>@drawable/tvshow_poster_dragon_ball</item>
+        <item>@drawable/tvshow_poster_fairytail</item>
+        <item>@drawable/tvshow_poster_family_guy</item>
+        <item>@drawable/tvshow_poster_flash</item>
+        <item>@drawable/tvshow_poster_god</item>
+        <item>@drawable/tvshow_poster_gotham</item>
+        <item>@drawable/tvshow_poster_grey_anatomy</item>
+        <item>@drawable/tvshow_poster_hanna</item>
+        <item>@drawable/tvshow_poster_iron_fist</item>
+        <item>@drawable/tvshow_poster_naruto_shipudden</item>
+        <item>@drawable/tvshow_poster_ncis</item>
+        <item>@drawable/tvshow_poster_riverdale</item>
+        <item>@drawable/tvshow_poster_shameless</item>
+        <item>@drawable/tvshow_poster_supergirl</item>
+        <item>@drawable/tvshow_poster_supernatural</item>
+        <item>@drawable/tvshow_poster_the_simpson</item>
+        <item>@drawable/tvshow_poster_the_umbrella</item>
+        <item>@drawable/tvshow_poster_the_walking_dead</item>
+    </array>
+
+    <array name="data_tvshow_photo_highlight">
+        <item>@drawable/hightlight_tvshow_arrow</item>
+        <item>@drawable/hightlight_tvshow_doom_patrol</item>
+        <item>@drawable/hightlight_tvshow_dragonball</item>
+        <item>@drawable/hightlight_tvshow_fairytail</item>
+        <item>@drawable/hightlight_tvshow_family_guy</item>
+        <item>@drawable/hightlight_tvshow_the_flash</item>
+        <item>@drawable/hightlight_tvshow_got</item>
+        <item>@drawable/hightlight_tvshow_gotham</item>
+        <item>@drawable/hightlight_tvshow_grey_anatomy</item>
+        <item>@drawable/hightlight_tvshow_hanna</item>
+        <item>@drawable/hightlight_tvshow_ironf_fist</item>
+        <item>@drawable/hightlight_tvshow_naruto</item>
+        <item>@drawable/hightlight_tvshow_ncis</item>
+        <item>@drawable/hightlight_tvshow_riverdale</item>
+        <item>@drawable/hightlight_tvshow_shameless</item>
+        <item>@drawable/hightlight_tvshow_supergirl</item>
+        <item>@drawable/hightlight_tvshow_supernatural</item>
+        <item>@drawable/hightlight_tvshow_the_simpson</item>
+        <item>@drawable/hightlight_tvshow_umbrella_academy</item>
+        <item>@drawable/hightlight_tvshow_walking_dead</item>
+    </array>
+</resources>

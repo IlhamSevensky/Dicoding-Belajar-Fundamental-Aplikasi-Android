@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/navigation_movie">
+
+    <fragment
+        android:id="@+id/navigation_movie"
+        android:name="com.ilham.made.thirdsubmission.fragments.MovieFragment"
+        android:label="@string/title_movie_tab"
+        tools:layout="@layout/fragment_movie">
+        <action
+            android:id="@+id/action_navigation_movie_to_detailActivity"
+            app:destination="@id/detailActivity" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_tvshow"
+        android:name="com.ilham.made.thirdsubmission.fragments.TvShowFragment"
+        android:label="@string/title_tvshow_tab"
+        tools:layout="@layout/fragment_tv_show">
+        <action
+            android:id="@+id/action_navigation_tvshow_to_detailActivity"
+            app:destination="@id/detailActivity" />
+    </fragment>
+
+    <activity
+        android:id="@+id/detailActivity"
+        android:name="com.ilham.made.thirdsubmission.DetailActivity"
+        android:label="activity_detail"
+        tools:layout="@layout/activity_detail">
+
+    </activity>
+
+</navigation>
